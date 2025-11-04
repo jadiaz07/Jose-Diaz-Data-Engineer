@@ -7,3 +7,5 @@ You have been provided with a dataset called schools.csv, which is previewed bel
 You have been tasked with answering three key questions about New York City (NYC) public school SAT performance.
 
 ¿Qué escuelas de la ciudad de Nueva York tienen los mejores resultados en matemáticas?
+¿Cuáles son las 10 escuelas con mejor rendimiento según las puntuaciones combinadas del SAT?
+¿Qué distrito tiene la mayor desviación estándar en la puntuación combinada del SAT?
