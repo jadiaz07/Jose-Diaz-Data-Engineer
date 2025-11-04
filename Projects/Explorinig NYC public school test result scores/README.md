@@ -16,13 +16,12 @@ Busqué responder a una pregunta clave: **¿Qué distrito de NYC presenta la may
 
 ## 📊 Resultado Clave
 
-El distrito con la mayor dispersión en las puntuaciones del SAT fue **[NOMBRE DEL DISTRITO AQUÍ]**.
+El distrito con la mayor dispersión en las puntuaciones del SAT fue **[Manhattan]**.
 
 ### Mi DataFrame `largest_std_dev`
 
 | borough | num_schools | average_SAT | std_SAT |
-| :--- | :--- | :--- | :--- |
-| **[NOMBRE DEL DISTRITO AQUÍ]** | [VALOR] | [VALOR] | [VALOR] |
+| Manhattan | 89 | 1340.13 | 230.29 |
 
 *(**Nota:** Asegúrate de llenar esta tabla con el resultado real de tu ejecución.)*
 
@@ -30,7 +29,7 @@ El distrito con la mayor dispersión en las puntuaciones del SAT fue **[NOMBRE D
 
 Aquí se puede ver la comparación de las métricas de este distrito en un gráfico de barras:
 
-<img width="1262" height="941" alt="Resultado" src="https://github.com/user-attachments/assets/e5fa7024-dedf-49da-995c-418ea350ed47" />
+<img width="800" height="600" alt="Resultado" src="https://github.com/user-attachments/assets/e5fa7024-dedf-49da-995c-418ea350ed47" />
 
 
 ## 🛠️ Tecnologías
