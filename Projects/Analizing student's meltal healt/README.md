@@ -6,3 +6,15 @@ The study found that international students have a higher risk of mental health 
 Explore the `students` data using PostgreSQL to find out if you would come to a similar conclusion for international students and see if the length of stay is a contributing factor.
 
 Here is a data description of the columns you may find helpful.
+
+| Field Name    | Description                                      |
+| ------------- | ------------------------------------------------ |
+| `inter_dom`     | Types of students (international or domestic)   |
+| `japanese_cate` | Japanese language proficiency                    |
+| `english_cate`  | English language proficiency                     |
+| `academic`      | Current academic level (undergraduate or graduate) |
+| `age`           | Current age of student                           |
+| `stay`          | Current length of stay in years                  |
+| `todep`         | Total score of depression (PHQ-9 test)           |
+| `tosc`          | Total score of social connectedness (SCS test)   |
+| `toas`          | Total score of acculturative stress (ASISS test) |
