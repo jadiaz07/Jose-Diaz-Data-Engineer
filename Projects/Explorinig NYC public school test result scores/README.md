@@ -24,6 +24,10 @@ El distrito con la mayor dispersión en las puntuaciones del SAT fue **[Manhatta
 | Manhattan | 89 | 1340.13 | 230.29 |
 | **[Manhattan]** | [89] | [1340.13] | [230.29] |
 
+| borough | num_schools | average_SAT | std_SAT |
+| :Manhattan | :89 | :1340.13 | :230.29 |
+| **[NOMBRE DEL DISTRITO AQUÍ]** | [VALOR] | [VALOR] | [VALOR] |
+
 *(**Nota:** Asegúrate de llenar esta tabla con el resultado real de tu ejecución.)*
 
 ### Visualización
