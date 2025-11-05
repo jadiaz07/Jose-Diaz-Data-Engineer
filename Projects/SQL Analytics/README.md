@@ -25,7 +25,9 @@ Esta consulta imputa (`calculated_quantity`) los valores faltantes en la columna
 
 * **SGBD:** PostgreSQL (El código usa funciones como `CAST(AS NUMERIC)` específicas para PostgreSQL).
   
-* **Archivos:** Las consultas se encuentran en el directorio sql/.
+* **Archivos:**
+* Las consultas se encuentran en el directorio SQL/.
+* Los archivos CSV se encuentran en el directorio Data/.
 ## 🚀 Cómo Ejecutar
 
 ➡️ Para instrucciones detalladas sobre la ejecución, consulta el archivo EXECUTE.md.
